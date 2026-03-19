@@ -30,7 +30,7 @@ const HylmiProfile = () => {
           <hr className="my-6" />
 
           
-          <h2 className="text-xl font-bold text-gray-800 mb-3">Tentang Diri</h2>
+          <h2 className="text-xl font-bold text-gray-800 mb-3">Deskripsi Diri</h2>
           <p className="text-gray-600 leading-relaxed text-justify">
             Saya adalah seorang mahasiswa program vokasi Teknologi Informasi di 
             Universitas Brawijaya yang memiliki antusiasme tinggi dalam dunia pengembangan perangkat lunak, 
